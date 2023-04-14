@@ -1,7 +1,7 @@
 # Projeto Final ICD
 
 - Erlon Lacerda Avelino
-- Samuel Jose
+- Samuel José
 - Leo Jaime Costa
 - Roberto Rawlison
 
