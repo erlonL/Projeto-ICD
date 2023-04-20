@@ -1,7 +1,7 @@
 # Projeto ICD
 Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados pela UFPB referente ao semestre 2022.2.
 
-- Erlon Lacerda Avelino
+- Erlon Lacerda
 - Samuel José
 - Leo Jaime Costa
 - Roberto Rawlison
