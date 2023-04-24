@@ -6,6 +6,8 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 - Leo Jaime Costa
 - Roberto Rawlison
 
+## [Projeto-ICD Notebook](https://github.com/erlonL/Projeto-ICD/blob/main/Projeto_ICD.ipynb)
+
 ## [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
 
 ## Perguntas:
