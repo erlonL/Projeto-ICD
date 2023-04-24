@@ -12,6 +12,10 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 	- Como os hábitos e fatores controláveis influenciam em uma doença cardíaca?
 	- Como a raça e o sexo pode influenciar?
 
+## Descrição dos Dados:
+
+[Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
+
 ## Referências:
 
 [Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
