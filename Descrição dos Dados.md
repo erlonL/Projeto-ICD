@@ -5,7 +5,7 @@
 > The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
 
 - 18 Colunas
-- + de 400 mil linhas
+- \+ de 400 mil linhas
 
 #### Colunas
 - HeartDisease - Boolean
