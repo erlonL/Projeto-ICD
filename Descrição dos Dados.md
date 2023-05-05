@@ -30,7 +30,7 @@
   >Fourteen-level age category
 - Race - String
   >Imputed race/ethnicity value
-- Diabetic - Boolean
+- Diabetic - String (Yes, No, Yes(During Pregnancy), No(Pre-diabetic)
   >(Ever told) (you had) diabetes?
 - PhysicalActivity - Boolean
   >Adults who reported doing physical activity or exercise during the past 30 days other than their regular job
