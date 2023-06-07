@@ -12,10 +12,10 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 ### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
 
 ## Perguntas:
-	- Quais aspectos mais influenciam e menos influenciam em uma doença cardíaca?
-	- Quais combos de agravantes mais influenciam em uma doença cardíaca?
-	- Como os hábitos e fatores controláveis influenciam em uma doença cardíaca?
-	- Como a raça e o sexo pode influenciar?
+    - Como o sono impacta na saúde do indivíduo?
+    - Como as variáveis influenciam no problema cardíaco?
+    - Como os hábitos e fatores controláveis influenciam no surgimento de um problema cardíaco?
+    - Como a raça e o sexo podem influenciar em problemas cardíacos?
 	
 ## Referências:
 
