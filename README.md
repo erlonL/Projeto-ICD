@@ -7,15 +7,16 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 - Leo Jaime Costa
 - Roberto Rawlison
 
-## [Projeto-ICD Notebook](https://github.com/erlonL/Projeto-ICD/blob/main/projeto.ipynb)
-
-### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
 
 ## Perguntas:
     - Como o sono impacta na saúde do indivíduo?
     - Como as variáveis influenciam no problema cardíaco?
     - Como os hábitos e fatores controláveis influenciam no surgimento de um problema cardíaco?
     - Como a raça e o sexo podem influenciar em problemas cardíacos?
+
+## [Relatório Final](https://github.com/erlonL/Projeto-ICD/blob/main/projeto.ipynb)
+
+### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
 	
 ## Referências:
 
