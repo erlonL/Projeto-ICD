@@ -7,16 +7,29 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 - Leo Jaime Costa
 - Roberto Rawlison
 
-## [Projeto-ICD Notebook](https://github.com/erlonL/Projeto-ICD/blob/main/projeto.ipynb)
+<img src="media/capa-heartdisease.png" alt="Capa">
 
-### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
+---
+
+## [Relatório Final](https://github.com/erlonL/Projeto-ICD/blob/main/projeto.ipynb)
+
+<a href = "https://github.com/erlonL/Projeto-ICD/blob/main/projeto.ipynb"><img src="media/image-relatorio.png" alt = "relatório"></a>
+
+---
 
 ## Perguntas:
-	- Quais aspectos mais influenciam e menos influenciam em uma doença cardíaca?
-	- Quais combos de agravantes mais influenciam em uma doença cardíaca?
-	- Como os hábitos e fatores controláveis influenciam em uma doença cardíaca?
-	- Como a raça e o sexo pode influenciar?
-	
+    - Como o sono impacta na saúde do indivíduo?
+    - Como as variáveis influenciam no problema cardíaco?
+    - Como os hábitos e fatores controláveis influenciam no surgimento de um problema cardíaco?
+    - Como a raça e o sexo podem influenciar em problemas cardíacos?
+
+---
+### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
+
+---
+
 ## Referências:
 
 [Kaggle - Heart Disease Indicators](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+
+---
