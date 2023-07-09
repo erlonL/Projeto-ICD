@@ -20,7 +20,7 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 ## Perguntas:
     - Como o sono impacta na saúde do indivíduo?
     - Como as variáveis influenciam no problema cardíaco?
-    - Como os hábitos e fatores controláveis influenciam no surgimento de um problema cardíaco?
+    - Como os hábitos e fatores não controláveis influenciam no surgimento de um problema cardíaco?
     - Como a raça e o sexo podem influenciar em problemas cardíacos?
 
 ---
