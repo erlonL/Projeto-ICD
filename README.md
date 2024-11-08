@@ -1,11 +1,6 @@
 # Projeto ICD
-Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados pela UFPB referente ao semestre 2022.2
 
-## Integrantes
-- Erlon Lacerda
-- Samuel José
-- Leo Jaime Costa
-- Roberto Rawlison
+Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados pela UFPB referente ao semestre 2022.2
 
 <img src="media/capa-heartdisease.png" alt="Capa">
 
@@ -17,13 +12,22 @@ Projeto de Análise de Dados para a disciplina Introdução à Ciência de Dados
 
 ---
 
+## Integrantes
+
+- Erlon Lacerda
+- Samuel José
+- Leo Jaime Costa
+- Roberto Rawlison
+
 ## Perguntas:
+
     - Como o sono impacta na saúde do indivíduo?
     - Como as variáveis influenciam no problema cardíaco?
     - Como os hábitos e fatores não controláveis influenciam no surgimento de um problema cardíaco?
     - Como a raça e o sexo podem influenciar em problemas cardíacos?
 
 ---
+
 ### [Descrição dos Dados](https://github.com/erlonL/Projeto-ICD/blob/main/Descri%C3%A7%C3%A3o%20dos%20Dados.md)
 
 ---
